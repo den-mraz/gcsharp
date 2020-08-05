@@ -1,0 +1,15 @@
+C:\Users\USER\source\repos\DenisTestTask\bin\Debug\netcoreapp3.1\DenisTestTask.exe
+C:\Users\USER\source\repos\DenisTestTask\bin\Debug\netcoreapp3.1\DenisTestTask.deps.json
+C:\Users\USER\source\repos\DenisTestTask\bin\Debug\netcoreapp3.1\DenisTestTask.runtimeconfig.json
+C:\Users\USER\source\repos\DenisTestTask\bin\Debug\netcoreapp3.1\DenisTestTask.runtimeconfig.dev.json
+C:\Users\USER\source\repos\DenisTestTask\bin\Debug\netcoreapp3.1\DenisTestTask.dll
+C:\Users\USER\source\repos\DenisTestTask\bin\Debug\netcoreapp3.1\DenisTestTask.pdb
+C:\Users\USER\source\repos\DenisTestTask\obj\Debug\netcoreapp3.1\DenisTestTask.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\DenisTestTask\obj\Debug\netcoreapp3.1\DenisTestTask.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\DenisTestTask\obj\Debug\netcoreapp3.1\DenisTestTask.AssemblyInfo.cs
+C:\Users\USER\source\repos\DenisTestTask\obj\Debug\netcoreapp3.1\DenisTestTask.dll
+C:\Users\USER\source\repos\DenisTestTask\obj\Debug\netcoreapp3.1\DenisTestTask.pdb
+C:\Users\USER\source\repos\DenisTestTask\obj\Debug\netcoreapp3.1\DenisTestTask.genruntimeconfig.cache
+C:\Users\USER\source\repos\DenisTestTask\bin\Debug\netcoreapp3.1\Npgsql.dll
+C:\Users\USER\source\repos\DenisTestTask\obj\Debug\netcoreapp3.1\DenisTestTask.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\DenisTestTask\obj\Debug\netcoreapp3.1\DenisTestTask.csproj.CopyComplete
